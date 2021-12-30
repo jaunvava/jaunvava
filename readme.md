@@ -3,7 +3,7 @@
   <a href="https://github.com/jaunvava">
   <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=jaunvava&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaunvava&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="100em" src="(https://github-readme-stats.vercel.app/api/pin/?jaunvava=anuraghazra&repo=github-readme-stats)">
+  <img height="180em" src="(https://github-readme-stats.vercel.app/api/pin/?username=juanvava&repo=github-readme-stats)">
 </div>
 
 <div style="display: inline_block"><br>
@@ -22,3 +22,5 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-cruz-73b411220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+ 
