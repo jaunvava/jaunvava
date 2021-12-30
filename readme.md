@@ -2,10 +2,15 @@
  <div>
   <a href="https://github.com/jaunvava">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaunvava&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaunvava&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaunvava&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaunvava&layout=compact&langs_count=7&theme=tokyonight" />
+
 </div>
+
 <div style="display: inline_block"><br>
  
   <img align="center" alt="joao-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
