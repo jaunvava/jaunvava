@@ -4,8 +4,8 @@
   <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=jaunvava&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaunvava&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="100em" src="(https://github-readme-stats.vercel.app/api/pin/?username=juanvava&repo=github-readme-stats)">
-   <br>
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaunvava&theme=redical)](https://github.com/jaunvava/github-readme-activity-graph)
+ 
+ 
 </div>
 
 <div style="display: inline_block"><br>
