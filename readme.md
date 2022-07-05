@@ -22,7 +22,7 @@ Estudante de Analise e desenvolvimento de sistemas, atuando no front-end. Tenho 
 <div align="center"> 
   <a href = "mailto:mortalteck1020@gmail.com
 "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-cruz-73b411220/](https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-73b411220/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-73b411220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
  
