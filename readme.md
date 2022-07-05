@@ -24,5 +24,10 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-cruz-73b411220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+ 
+ </div>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoPedroli&theme=radical)](https://github.com/Joao010/github-readme-streak-stats)|
+  </div>
+
 
  
