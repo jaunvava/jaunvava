@@ -39,7 +39,7 @@
 
   <br/>
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaunvava&theme=shades-of-purple)](https://github.com/jaunvava/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaunvava&theme=nightowl)](https://github.com/jaunvava/github-readme-activity-graph)
   
   <br/><br/>
 </div>
