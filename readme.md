@@ -25,9 +25,22 @@
  
 </div>
  
- </div>
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoPedroli&theme=radical)](https://github.com/Joao010/github-readme-streak-stats)|
-  </div>
+<div align="center">
+  
+  | Streaks |
+  |--|
+  |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaunvavali&theme=radical)](https://github.com/jaunvava/github-readme-streak-stats)|
+  
+  <br/>
+  
+  | Statistics|Languages |
+  |--|--|
+  |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaunvava&show_icons=true&theme=radical)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaunvava&layout=compact&theme=radical)](https://github.com/joaovava/github-readme-stats)|
 
-
+  <br/>
+  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaunvava&theme=redical)](https://github.com/jaunvava/github-readme-activity-graph)
+  
+  <br/><br/>
+</div>
  
