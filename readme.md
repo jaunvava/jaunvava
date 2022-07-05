@@ -29,7 +29,7 @@
   
   | Streaks |
   |--|
-  |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaunvavali&theme=radical)](https://github.com/jaunvava/github-readme-streak-stats)|
+  |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaunvava&theme=shades-of-purple)](https://github.com/jaunvava/github-readme-streak-stats)|
   
   <br/>
   
