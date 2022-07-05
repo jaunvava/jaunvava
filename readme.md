@@ -4,12 +4,12 @@ Systems analysis and development student, working on the front-end. I have exper
 <br />
 Olá, meu nome é João. 
 Estudante de Analise e desenvolvimento de sistemas, atuando no front-end. Tenho experiência em Linux, MacOS e Windows. Experiência em redes e infraestrutura de TI, e programação empresarial, sempre aprendendo novas tecnologias e lançamentos do mercado.
-<div>
+<div align="center">
   <a href="https://github.com/jaunvava">
   <img height="100em" src="(https://github-readme-stats.vercel.app/api/pin/?username=juanvava&repo=github-readme-stats)">
  
  
-</div align="center">
+</div>
 
 <div style="display: inline_block"><br>
  
