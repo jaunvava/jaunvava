@@ -1,5 +1,8 @@
 ## Hi👋, my name is João😄
+Systems analysis and development student, working on the front-end. I have experience in Linux, MacOS and Windows. Experience in networks and IT infrastructure, and business programming, always learning new technologies and market releases.
+
 <br />
+Olá, meu nome é João. 
 Estudante de Analise e desenvolvimento de sistemas, atuando no front-end. Tenho experiência em Linux, MacOS e Windows. Experiência em redes e infraestrutura de TI, e programação empresarial, sempre aprendendo novas tecnologias e lançamentos do mercado.
 
 
