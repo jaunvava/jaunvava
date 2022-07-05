@@ -35,11 +35,11 @@
   
   | Statistics|Languages |
   |--|--|
-  |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaunvava&show_icons=true&theme=radical)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaunvava&layout=compact&theme=radical)](https://github.com/joaovava/github-readme-stats)|
+  |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaunvava&show_icons=true&theme=shades-of-purple)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaunvava&layout=compact&theme=shades-of-purple)](https://github.com/joaovava/github-readme-stats)|
 
   <br/>
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaunvava&theme=redical)](https://github.com/jaunvava/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaunvava&theme=shades-of-purple)](https://github.com/jaunvava/github-readme-activity-graph)
   
   <br/><br/>
 </div>
