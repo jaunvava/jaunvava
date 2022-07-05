@@ -1,4 +1,4 @@
-## Hi👋, my name is Pedro😄
+## Hi👋, my name is João😄
  <div>
   <a href="https://github.com/jaunvava">
   <img height="100em" src="(https://github-readme-stats.vercel.app/api/pin/?username=juanvava&repo=github-readme-stats)">
