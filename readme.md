@@ -42,6 +42,5 @@ Estudante de Analise e desenvolvimento de sistemas, atuando no front-end. Tenho 
   
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaunvava&theme=gruvbox)](https://github.com/jaunvava/github-readme-activity-graph)
   
-  <br/><br/>
 </div>
  
