@@ -23,7 +23,7 @@ Essas são as principais tecnologias que uso no meu dia a dia!
   
   | Statistics|Languages |
   |--|--|
-  |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaunvava&show_icons=true&theme=)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaunvava&layout=donut)](https://github.com/anuraghazra/github-readme-stats)|
+  |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaunvava&show_icons=true&theme=)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaunvava&layout=donut)|
   
   <br/>
 </div>
