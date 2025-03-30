@@ -162,9 +162,8 @@ Me chamo João Pedro Cruz, tenho 23 anos e sou um estudante de ciência da compu
 
 ### 📊 Estatísticas
 
-<p>
+<div align="center">
   <img
-    align="left"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 8px;"
@@ -172,20 +171,9 @@ Me chamo João Pedro Cruz, tenho 23 anos e sou um estudante de ciência da compu
   />
 
 <img
-      align="right"
-      alt="GitHub Stats"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaunvava&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaunvava&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
-</p>
-
-<!--
-<div align="center">
-
-  <br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaunvava&show_icons=true&theme=)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaunvava&layout=donut)
-
-  <br/>
-</div> -->
+</div>
