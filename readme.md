@@ -8,13 +8,13 @@ Me chamo João Pedro Cruz, tenho 23 anos e sou um estudante de ciência da compu
     <a href="https://joaopedrocruz-portfolio.vercel.app/">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/jpedrosouzs?igsh=MWk0dHl1dGRhaDR4ZA==">
+<!--     <a href="https://www.instagram.com/jpedrosouzs?igsh=MWk0dHl1dGRhaDR4ZA==">
         <img 
             alt="Meu insta" 
             title="Meu insta" 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
-    </a>
+    </a> -->
      <a href="https://www.linkedin.com/in/joaopedrosouzs/">
         <img 
             alt="Meu LinkedIn" 
