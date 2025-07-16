@@ -160,6 +160,8 @@ Me chamo João Pedro Cruz, tenho 23 anos e sou um estudante de ciência da compu
 <br/>
 <br/>
 
+## 📊 Estatísticas
+
 <table align="center">
   <tr>
     <td align="center">
