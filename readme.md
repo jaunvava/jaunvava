@@ -171,6 +171,6 @@ Me chamo João Pedro Cruz, tenho 23 anos e sou um estudante de ciência da compu
   <img
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaunvava&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaunvava&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&card_width=300"
   />
 </p>
