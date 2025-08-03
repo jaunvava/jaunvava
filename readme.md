@@ -8,7 +8,7 @@ Me chamo João Pedro Cruz, tenho 23 anos e sou um estudante de ciência da compu
     <a href="https://joaopedrocruz-portfolio.vercel.app/">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
-<!--     <a href="https://www.instagram.com/jpedrosouzs?igsh=MWk0dHl1dGRhaDR4ZA==">
+<!--     <a href="">
         <img 
             alt="Meu insta" 
             title="Meu insta" 
@@ -52,6 +52,14 @@ Me chamo João Pedro Cruz, tenho 23 anos e sou um estudante de ciência da compu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img
+align="left"
+alt="DJANGO"
+title="DJANGO"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+/>
 <img 
     align="left" 
     alt="JavaScript" 
@@ -60,14 +68,16 @@ Me chamo João Pedro Cruz, tenho 23 anos e sou um estudante de ciência da compu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
+
+<!-- <img
+    align="left"
     alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+    title="TypeScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/> -->
+
 <img 
     align="left" 
     alt="React"
@@ -139,14 +149,6 @@ Me chamo João Pedro Cruz, tenho 23 anos e sou um estudante de ciência da compu
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="PRIMA" 
-    title="PRISMA"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
 />
 <img 
     align="left" 
