@@ -5,7 +5,7 @@
 Me chamo João Pedro Cruz, tenho 23 anos e sou um estudante de ciência da computação, apaixonado por tecnologia e pela criação de soluções inteligentes e funcionais, trabalho para desenvolver sistemas é aplicativos para proporcionarem uma experiência excepcional ao usuário, gosto de atividades na natureza, ler bons livros e jogos, você pode entrar em contato comigo através dos links abaixo.
 
 <p align="left">
-    <a href="https://joaopedrocruz-portfolio.vercel.app/">
+    <a href="https://portfolio-novo-jp.vercel.app/">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
 <!--     <a href="">
