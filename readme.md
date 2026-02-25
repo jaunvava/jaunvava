@@ -62,6 +62,23 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-pla
 />
 <img 
     align="left" 
+    alt="CSHARP" 
+    title="CSHARP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="DOTNET" 
+    title="DOTNET"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
+/>
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -69,14 +86,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-pla
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<!-- <img
+<img
     align="left"
     alt="TypeScript"
     title="TypeScript"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/> -->
+/>
 
 <img 
     align="left" 
@@ -110,7 +127,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-pla
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<img 
+<!-- <img 
     align="left" 
     alt="TAILWIND" 
     title="TAILWIND"
@@ -125,8 +142,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-pla
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
+/> -->
+<!-- <img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -141,7 +158,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-pla
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+/> -->
 <img 
     align="left" 
     alt="DOCKER" 
@@ -150,7 +167,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-pla
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
 />
-<img 
+ <img 
+    align="left" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+ />
+ <img 
     align="left" 
     alt="GIT" 
     title="GIT"
